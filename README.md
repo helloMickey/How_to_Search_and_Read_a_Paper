@@ -1,4 +1,26 @@
 如何搜索和阅读一篇论文 (How to Search&Read a Paper)
+
+=============================
+
+更新 [来自 Andrew Ng 的建议](https://www.youtube.com/watch?v=733m6qBH-jI&t=3486s)
+Read research paper：
+
+compiled list of papers:
+- **5-20** paper：**basic understanding of an area**
+- 50-100 papers: **very good understanding of an area**
+
+read one paper follow this step：
+- **S1: title + abstract + figures**
+- **S2: intro + conclusion + figures + skim rest of paper(skim related work)**
+- **S3: read more, but skim/skip math**
+- **S4: whole thing, but skip parts that make no sense**
+
+and try to answer this question:
+- **Q1: What did author try to accomplish?**
+- **Q2: What are the key elements of the approach?**
+- **Q3: What can you use yourself?**
+- **Q4: What other references do you want follow?**
+
 =============================
 ## Motivation
 看着一帮一帮的硕士师弟入学，开题，答辩和毕业。感觉到自己渐渐向老古董靠拢(老古董现已博士毕业)。一次偶然的机会，**发现一部分师弟到写毕业论文时都不会查论文，对于学校的电子资源更是知之甚少**。顿时感到无比心疼，送上搜索文献一文，希望对你们少走弯路，早日“入门”。
